@@ -1,4 +1,4 @@
-# Randomized Perlin Noise: Digital Canvas Alchemy
+# Randomized Perlin Noise 'Hilly' Landscape
 
 ## 🌀 The Experiment
 Transform code into living, breathing visual poetry. This isn't just animation—it's controlled chaos captured in pixels.
