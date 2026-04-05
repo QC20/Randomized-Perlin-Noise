@@ -17,11 +17,10 @@
 
     #fixed-bg {
       position: fixed;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
-      width: 80vw;
-      height: 80vh;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      height: 100vh;
     }
 
     canvas {
@@ -29,16 +28,8 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      aspect-ratio: 1;
-      width: auto;
-      height: 100%;
-    }
-
-    @media (max-aspect-ratio: 1) {
-      canvas {
-        width: 100%;
-        height: auto;
-      }
+      width: 100vw;
+      height: 100vh;
     }
   </style>
 </head>
